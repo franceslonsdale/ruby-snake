@@ -1,4 +1,6 @@
 # ruby-snake
 first ruby project
 
-following <a href url="https://diatomenterprises.com/gamedev-on-ruby-why-not/tutorial">Ruby snake game</a>
+following [Ruby snake game](https://diatomenterprises.com/gamedev-on-ruby-why-not/tutorial)
+recommended by [build your own](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file
+)
